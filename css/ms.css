@@ -3,6 +3,11 @@ h1.ms-header {
   font-family: "Times New Roman", Times, serif;
 }
 
+p.ms-subheader {
+  color: rgb(226, 48, 255) !important; 
+  font-family: "Times New Roman", Times, serif;
+}
+
 section.ms-bg-art {
   background-color: #f05f40;
 }
@@ -12,9 +17,14 @@ section.ms-bg-clay {
 }
 
 .ms-art-portfolio-box .ms-art-portfolio-box-caption {
-    background: rgba(240,95,64,.9);
+  background: rgba(240,95,64,.9);
 }
 
 .ms-clay-portfolio-box .ms-clay-portfolio-box-caption {
-    background: rgba(228,155,24,.9);
+  background: rgba(228,155,24,.9);
+}
+
+.ms-jumbotron {
+  background-color: navajowhite;
+  opacity: 0.5;
 }
