@@ -1,0 +1,40 @@
+/* Header */
+
+.ms-jumbotron {
+  background-color: navajowhite;
+  opacity: 0.5;
+}
+
+h1.ms-header {
+  color: rgb(226, 48, 255);
+  font-family: "Times New Roman", Times, serif;
+}
+
+p.ms-subheader {
+  color: rgb(226, 48, 255) !important; 
+  font-family: "Times New Roman", Times, serif;
+}
+
+/* About */
+
+section.ms-bg-art {
+  background-color: #f05f40;
+}
+
+section.ms-bg-clay {
+  background-color: #e49b18;
+}
+
+/* Portfolio */
+
+img.ms-portfolio {
+  width: 100%;
+}
+
+.ms-art-portfolio-box .ms-art-portfolio-box-caption {
+  background: rgba(240,95,64,.9);
+}
+
+.ms-clay-portfolio-box .ms-clay-portfolio-box-caption {
+  background: rgba(228,155,24,.9);
+}
