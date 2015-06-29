@@ -36,3 +36,4 @@ Start Bootstrap is based on the [Bootstrap](http://getbootstrap.com/) framework 
 ## Copyright and License
 
 Copyright 2013-2015 Iron Summit Media Strategies, LLC. Code released under the [Apache 2.0](https://github.com/IronSummitMedia/startbootstrap-creative/blob/gh-pages/LICENSE) license.
+All images on this site are owned by MelodiSketch and TheDragonDens and are licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License.
