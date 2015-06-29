@@ -1,3 +1,15 @@
+# MelodiSketch's Site
+
+This site's purpose is to display my artwork. These pictures and more information about them can also be found on my DeviantArt accounts: [MelodiSketch](http://melodisketch.deviantart.com/) and [TheDragonDens](http://thedragondens.deviantart.com/).
+
+## Changes from Original Template
+
+* All images have been replaced with images from [MelodiSketch](http://melodisketch.deviantart.com/) and [TheDragonDens](http://thedragondens.deviantart.com/).
+* All text has been replaced.
+* Added another "About" section that the theme has an orange colour.
+* Modified the "Contact" section.
+* All updates were originally tracked [here] (https://github.com/hitlechro/MelodiSketch/commits/master) and are currently being tracked [here] (https://github.com/hitlechro/MelodiSketch/commits/gh-pages).
+
 # [Start Bootstrap](http://startbootstrap.com/) - [Creative](http://startbootstrap.com/template-overviews/creative/)
 
 [Creative](http://startbootstrap.com/template-overviews/creative/) is a one page creative theme for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/).
