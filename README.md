@@ -1,4 +1,4 @@
-# MelodiSketch's Site
+# [MelodiSketch's Site](http://melodisketch.github.io/MelodiSketch/)
 
 This site's purpose is to display my artwork. These pictures and more information about them can also be found on my DeviantArt accounts: [MelodiSketch](http://melodisketch.deviantart.com/) and [TheDragonDens](http://thedragondens.deviantart.com/).
 
